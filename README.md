@@ -17,7 +17,7 @@
 ---
 
 ### 📌 **주요 프로젝트**  
-- 📊 **[사회 이슈 기반 소비 패턴 예측 모델](https://github.com/your-username/your-repository-name)**  
+- 📊 **[사회 이슈 기반 소비 패턴 예측 모델](https://github.com/yoojeong31/graduation-work)**  
   Prophet 모델을 활용해 사회 이슈 발생 시 이해관계자 개입에 따른 소비 패턴 변화를 예측하고 Tableau를 통해 시각화. 
 - 🩺 **[적외선 체열 데이터 분석 및 표준 체형 매핑](#)**  
   데이터 익명성을 확보하기 위해 표준 체형을 설계하고 의료 데이터의 신뢰도를 높이는 시스템 개발.  
